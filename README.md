@@ -18,8 +18,8 @@ Python : python 3
 
 Installation
 ====
-## step 1. down load the tools
-## step 2. edit the configuration
+### step 1. down load the tools
+### step 2. edit the configuration
     [DEFAULT]
     ;the original key word
     sourcestr =
@@ -32,4 +32,5 @@ Installation
     ;filter, the tool will copy only start with the key words, such as, you can set keywords = https, so only content
     ;started with https will be copied.
     keywords =
-
+### step 3 run
+    python you\file\path\ClipbrdToFile.py
