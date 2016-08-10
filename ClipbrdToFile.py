@@ -1,7 +1,17 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-
-# version 1.0 2015.09.07
+########################################################################
+# Name:
+# 		ClipbrdToFile.py
+# Description:
+# 		GUI tools, it will continuously monitor your clip board and save the content to your file.
+# Author:
+# 		wuwesley
+# Python:
+#       3.0+
+# Version:
+#		1.0
+########################################################################
 __author__ = 'wuwesley'
 
 from tkinter import *
